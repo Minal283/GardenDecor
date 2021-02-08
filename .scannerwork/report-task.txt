@@ -1,0 +1,6 @@
+projectKey=gardenDecorsprint2
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=gardenDecorsprint2
+ceTaskId=AXeBe20EPE0iNsjBSrNX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXeBe20EPE0iNsjBSrNX
